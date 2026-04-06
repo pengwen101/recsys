@@ -1,3 +1,6 @@
 ml-*/
 models/
 history/
+.venv
+*__pycache__
+*.parquet

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytest
+httpx
+torch
+numpy
+scipy
+pandas
+pyarrow
+fastparquet
