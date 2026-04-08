@@ -8,3 +8,7 @@ scipy
 pandas
 pyarrow
 fastparquet
+requests
+python-dotenv
+ratelimit
+scikit-learn
