@@ -86,10 +86,10 @@ async def get_similar_recommendations(item_id: int, k: int, movies_df: pd.DataFr
     recommendations = []
     
     reason_map = {
-        0: "Features similar keywords and themes",
-        1: "Matches the genres of your picks",
-        2: "Directed by your liked directors",
-        3: "Stars actors from your favorite movies"
+        0: "Similar themes & keywords",
+        1: "Similar genres",
+        2: "Same director",
+        3: "Shared cast members"
     }
     
     for idx in top_indices:
