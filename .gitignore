@@ -3,8 +3,5 @@ models/
 history/
 .venv
 *__pycache__
-*.parquet
 .env
 *.pytest_cache
-*.npz
-*.pkl
